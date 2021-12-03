@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTZKIT lab6", "MTZKIT lab6.csproj", "{0F3BF7ED-5595-4B8B-94EE-78AB62B3C17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3BF7ED-5595-4B8B-94EE-78AB62B3C17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3BF7ED-5595-4B8B-94EE-78AB62B3C17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3BF7ED-5595-4B8B-94EE-78AB62B3C17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3BF7ED-5595-4B8B-94EE-78AB62B3C17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6348958C-652C-4796-B458-C049150FAC26}
+	EndGlobalSection
+EndGlobal
